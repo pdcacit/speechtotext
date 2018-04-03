@@ -10,7 +10,7 @@ public class SpeechToTextMain {
 	 * On API Reference: Click on Websockets > Recognize audio
 	 * Copy and paste the code inside public static void main(String[] args){}
 	 * Import necessary libraries
-	 * Copy and change the version, username, password based on your tone analyzer service credentials.
+	 * Copy and change the version, username, password based on your speech to text service credentials.
 	 * To run using in eclipse: Right click on the project in eclipse > Run As > Java Application
 	 * To run using command prompt: Go to the project directory and type the command > 'mvn exec:java'
 	 * To rebuild type 'mvn package' or 'mvn verify' before executing 'mvn exec:java' command
